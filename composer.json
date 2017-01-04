@@ -1,23 +1,27 @@
 {
     "name": "bashconsole/magento2-recaptcha",
-    "description": "N/A",
-    "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
-        "magento/module-store": "100.0.0",
-        "magento/module-backend": "100.0.0",
-        "magento/framework": "100.0.0",
-        "lib-libxml": "*"
-    },
-    "type": "magento2-module",
-    "version": "100.0.0",
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
+    "description": "Magento 2 ReCaptcha module",
+    "keywords": ["magento", "magento2", "recaptcha"],
+    "homepage": "https://github.com/bashconsole/magento2-recaptcha",
+    "authors": [
+        {
+            "name": "bashconsole",
+            "email": "zubovsky@gmail.com",
+            "homepage": "https://github.com/bashconsole/magento2-recaptcha",
+            "role": "Developer"
+        }
     ],
+    "license": "MIT",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "require": {
+        "php": "~7.0.0",
+        "magento/product-community-edition": "^2.1.0"
+    },
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
-            "Bashconsole\\ReCaptcha\\": ""
+        "Bashconsole\\ReCaptcha\\": ""
         }
     }
 }
