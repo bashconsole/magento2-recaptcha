@@ -1,4 +1,4 @@
-# Magento2 ReCaptcha module
+# Magento2 reCAPTCHA module
 # Oleksii Zubovskyi (zubovsky@gmail.com)
 
 

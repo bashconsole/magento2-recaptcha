@@ -1,6 +1,6 @@
 {
     "name": "bashconsole/magento2-recaptcha",
-    "description": "Magento 2 ReCaptcha module",
+    "description": "Magento 2 reCAPTCHA module",
     "keywords": ["magento", "magento2", "recaptcha"],
     "homepage": "https://github.com/bashconsole/magento2-recaptcha",
     "authors": [
