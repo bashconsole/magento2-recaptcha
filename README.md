@@ -1,5 +1,5 @@
 # Magento2 reCAPTCHA module
-# Alexej Zubovskyi (bashconsole@gmail.com)
+# Alexej Zubovsky (bashconsole@gmail.com)
 
 
 ## Install
